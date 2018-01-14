@@ -1,0 +1,14 @@
+/*margin logo ajp*/
+#gambarlogo {
+    background-color: #484848;
+    padding: 5px 0px;
+    position: relative;
+}
+
+#imghome1 {
+    float: left;
+}
+
+#imghome2 {
+    float: right;
+}
